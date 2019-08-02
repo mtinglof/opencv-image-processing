@@ -1,9 +1,9 @@
 # OpenCV Image Processing
 > Code from Summer REU 2019
 
-During the summer of 2019, I had the opportunity to work at Georgia State University, with funding from the NSF, as a REU intern. My work was using the python library OpenCV to remove dust from solar images. The task was more than a simple image processing problem as the dust particles on the image would move around and require image object tracking techniques to remove. 
+During the summer of 2019, I had the opportunity to work at Georgia State University, with funding from the NSF, as a REU intern. My work was using the python library OpenCV to remove dust from solar images. The task was more than a simple image processing problem as the dust particles on the image would move around and require using object tracking techniques to remove. 
 
-With these Python files I was able to come up with reasonable accuracy with removing these dust specs, though future work is needed on the project. 
+With these python files I was able to implement a classification solution reasonable accuracy. Future work is needed on the project, as there is still a list of features that I want to implement. 
 
 ## Getting started
 
@@ -29,6 +29,15 @@ This project is designed to
 
 As always, pull requests are welcome. If you would like to fork the repository, please use a feature branch. 
 If you have any questions, please feel free to message me. 
+
+## List of Future Features
+
+* design tools to monitor image quailty 
+** remove or fix too dim images
+** sun eclisping 
+** monitor image quailty to dyanamically change image processing technique 
+* classification process
+** automate classification process (remove user iteration need)
 
 ## Links
 
