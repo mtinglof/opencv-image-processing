@@ -30,7 +30,7 @@ This project is designed to
 As always, pull requests are welcome. If you would like to fork the repository, please use a feature branch. 
 If you have any questions, please feel free to message me. 
 
-## List of Future Features
+### List of Future Features
 
 * design tools to monitor image quailty 
 ** remove or fix too dim images
